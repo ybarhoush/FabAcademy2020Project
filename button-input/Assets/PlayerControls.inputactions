@@ -1,0 +1,33 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "GamePlay",
+            "id": "d68b49dd-43b6-4a9b-870c-c88a8ec91b44",
+            "actions": [
+                {
+                    "name": "Grow",
+                    "type": "Button",
+                    "id": "8a00ad94-4ce3-440e-86f2-80df522a6f8e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "51b96ffb-41e8-4609-9929-5826082f92f9",
+                    "path": "<Keyboard>/anyKey",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Grow",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
